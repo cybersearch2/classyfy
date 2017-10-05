@@ -116,6 +116,7 @@
           </execution>
          </executions>
       </plugin>
+      <!--
       <plugin>
 		 <groupId>au.com.cybersearch2</groupId>
 		 <artifactId>andmore-aar-maven-plugin</artifactId>
@@ -128,6 +129,7 @@
           </execution>
          </executions>
        </plugin>
+       -->
 	</plugins>
 	<pluginManagement>
 	  <plugins>
