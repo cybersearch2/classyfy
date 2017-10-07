@@ -39,16 +39,10 @@ allprojects
             url "https://maven.google.com"
         }
         maven {
-            url "http://build.cybersearch2.local/artifactory/libs-release-local/"
+            url "https://dl.bintray.com/cybersearch2/maven"
         }
     }
 }
-
-//task clean(type: Delete) 
-//{
-//    delete rootProject.buildDir
-//}
-
 
 repositories 
 {
